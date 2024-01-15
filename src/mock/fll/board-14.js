@@ -4,7 +4,17 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Andar 1 casa',
+        text: 'Bloco 1',
+        solution: {
+          visible: false,
+          board: 14,
+        }
+      },
+    },
+    {
+      number: 2,
+      button: {
+        text: 'Bloco 2',
         solution: {
           visible: false,
           board: 15,
@@ -12,22 +22,12 @@ export default {
       },
     },
     {
-      number: 2,
+      number: 3,
       button: {
-        text: 'Andar 2 casas',
+        text: 'Bloco 3',
         solution: {
           visible: false,
           board: 16,
-        }
-      },
-    },
-    {
-      number: 3,
-      button: {
-        text: 'Andar 3 casas',
-        solution: {
-          visible: false,
-          board: 17,
         },
       },
     },

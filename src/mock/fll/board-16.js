@@ -1,15 +1,33 @@
 export default {
   number: 16,
-  notification: "Parece que mais a frente haverá uma reta",
-  isPowerUp: true,
   options: [
     {
       number: 1,
       button: {
-        text: 'Andar 2 casas, virar para direita, e andar 5 casas',
+        text: 'Bloco 1',
         solution: {
           visible: false,
-          board: 23,
+          board: 16,
+        }
+      },
+    },
+    {
+      number: 2,
+      button: {
+        text: 'Bloco 2',
+        solution: {
+          visible: false,
+          board: 17,
+        }
+      },
+    },
+    {
+      number: 3,
+      button: {
+        text: 'Bloco 3',
+        solution: {
+          visible: false,
+          board: 17,
         },
       },
     },

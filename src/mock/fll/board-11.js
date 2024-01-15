@@ -4,7 +4,17 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Andar 1 casa e virar para direita',
+        text: 'Bloco 1',
+        solution: {
+          visible: false,
+          board: 11,
+        }
+      },
+    },
+    {
+      number: 2,
+      button: {
+        text: 'Bloco 2',
         solution: {
           visible: false,
           board: 12,
@@ -12,22 +22,12 @@ export default {
       },
     },
     {
-      number: 2,
-      button: {
-        text: 'Andar 1 casa, virar para direita, e andar 1 casa',
-        solution: {
-          visible: false,
-          board: 13,
-        }
-      },
-    },
-    {
       number: 3,
       button: {
-        text: 'Andar 1 casa, virar para direita, e andar 2 casas',
+        text: 'Bloco 3',
         solution: {
           visible: false,
-          board: 14,
+          board: 12,
         },
       },
     },
