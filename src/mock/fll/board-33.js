@@ -1,12 +1,10 @@
 export default {
   number: 33,
-  notification: "Vamos andar para trás para chegar ao portão!",
-  isPowerUp: true,
   options: [
     {
       number: 1,
       button: {
-        text: 'Voltar 1 casa',
+        text: 'Bloco 1',
         solution: {
           visible: false,
           board: 34,
@@ -16,7 +14,7 @@ export default {
     {
       number: 2,
       button: {
-        text: 'Voltar 2 casas',
+        text: 'Bloco 2',
         solution: {
           visible: false,
           board: 35,
@@ -26,10 +24,10 @@ export default {
     {
       number: 3,
       button: {
-        text: 'Voltar 3 casas',
+        text: 'Bloco 3',
         solution: {
           visible: false,
-          board: 36,
+          board: 33,
         },
       },
     },

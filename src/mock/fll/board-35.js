@@ -1,35 +1,17 @@
 export default {
-  number: 35,
+  number: 34,
+  notification: "Você está na frente de uma porta!",
+  isPowerUp: true,
   options: [
     {
       number: 1,
       button: {
-        text: 'Voltar 1 casa',
+        text: "Bloco 1",
         solution: {
           visible: false,
           board: 36,
-        }
-      },
-    },
-    {
-      number: 2,
-      button: {
-        text: 'Voltar 2 casas',
-        solution: {
-          visible: false,
-          board: 37,
-        }
-      },
-    },
-    {
-      number: 3,
-      button: {
-        text: 'Voltar 3 casas',
-        solution: {
-          visible: false,
-          board: 38,
         },
       },
     },
-  ]
-}
+  ],
+};

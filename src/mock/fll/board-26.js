@@ -1,11 +1,11 @@
 export default {
   number: 26,
-  notification: "Ah não! Há um portão bloqueando o caminho",
+  notification: "Ah não! Parece que você se perdeu!",
   options: [
     {
       number: 1,
       button: {
-        text: 'Virar à direita e andar 1 casa',
+        text: 'Bloco 1',
         solution: {
           visible: false,
           board: 27,

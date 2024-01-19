@@ -4,7 +4,7 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Voltar 1 casa',
+        text: 'Bloco 1',
         solution: {
           visible: false,
           board: 35,
@@ -14,20 +14,20 @@ export default {
     {
       number: 2,
       button: {
-        text: 'Voltar 2 casas',
+        text: 'Bloco 2',
         solution: {
           visible: false,
-          board: 36,
+          board: 34,
         }
       },
     },
     {
       number: 3,
       button: {
-        text: 'Voltar 3 casas',
+        text: 'Bloco 3',
         solution: {
           visible: false,
-          board: 37,
+          board: 35,
         },
       },
     },

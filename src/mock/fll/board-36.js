@@ -4,7 +4,17 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Voltar 1 casa',
+        text: 'Bloco 1',
+        solution: {
+          visible: false,
+          board: 36,
+        }
+      },
+    },
+    {
+      number: 2,
+      button: {
+        text: 'Bloco 2',
         solution: {
           visible: false,
           board: 37,
@@ -12,22 +22,12 @@ export default {
       },
     },
     {
-      number: 2,
+      number: 3,
       button: {
-        text: 'Voltar 2 casas',
+        text: 'Bloco 3',
         solution: {
           visible: false,
           board: 38,
-        }
-      },
-    },
-    {
-      number: 3,
-      button: {
-        text: 'Voltar 3 casas e virar a direita',
-        solution: {
-          visible: false,
-          board: 39,
         },
       },
     },
