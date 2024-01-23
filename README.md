@@ -3,7 +3,7 @@
 ## Application
 A fun game to teach FLL and FRC programming basics.
 
-You can play at: https://pedrohenriquelacerda.github.io/PlayFirst-2/
+You can play at: https://play-first-2.vercel.app/
 
 ## Project setup
 ```
