@@ -1,5 +1,5 @@
 export default {
-  number: 34,
+  number: 35,
   notification: "Você está na frente de uma porta! Use a chave para abrir ela.",
   isPowerUp: true,
   options: [
