@@ -1,5 +1,6 @@
 export default {
   number: 38,
+  notification: 'Parabéns! Você pegou uma caixa. Leve-a para o botão.',
   options: [
     {
       number: 1,

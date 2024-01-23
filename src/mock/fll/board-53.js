@@ -21,15 +21,5 @@ export default {
         },
       },
     },
-    {
-      number: 3,
-      button: {
-        text: "Bloco 3",
-        solution: {
-          visible: false,
-          board: 53,
-        },
-      },
-    },
   ],
 };
