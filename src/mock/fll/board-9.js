@@ -1,5 +1,6 @@
 export default {
   number: 9,
+  notification: 'A é o sensor para ler a cor do chão.',
   options: [
     {
       number: 1,
