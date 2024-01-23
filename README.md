@@ -1,4 +1,4 @@
-# Play FIRST
+# Play FIRST 2
 
 ## Application
 A fun game to teach FLL and FRC programming basics.
