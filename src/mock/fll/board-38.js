@@ -4,11 +4,31 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Voltar 1 casa, virar para direita',
+        text: 'Bloco 1',
+        solution: {
+          visible: false,
+          board: 43,
+        }
+      },
+    },
+    {
+      number: 2,
+      button: {
+        text: 'Bloco 2',
+        solution: {
+          visible: false,
+          board: 38,
+        }
+      },
+    },
+    {
+      number: 3,
+      button: {
+        text: 'Bloco 3',
         solution: {
           visible: false,
           board: 39,
-        }
+        },
       },
     },
   ]

@@ -1,37 +1,35 @@
 export default {
   number: 53,
-  notification: "Já estamos vendo a linha de chegada!",
-  isPowerUp: true,
   options: [
     {
       number: 1,
       button: {
-        text: 'Andar 1 casa',
+        text: "Bloco 1",
         solution: {
           visible: false,
-          board: 54,
-        }
+          board: 53,
+        },
       },
     },
     {
       number: 2,
       button: {
-        text: 'Andar 2 casas',
+        text: "Bloco 2",
         solution: {
           visible: false,
-          board: 55,
-        }
+          board: 52,
+        },
       },
     },
     {
       number: 3,
       button: {
-        text: 'Andar 3 casas',
+        text: "Bloco 3",
         solution: {
           visible: false,
-          board: 56,
+          board: 53,
         },
       },
     },
-  ]
-}
+  ],
+};

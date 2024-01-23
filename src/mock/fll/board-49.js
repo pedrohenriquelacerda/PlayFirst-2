@@ -1,17 +1,35 @@
 export default {
   number: 49,
-  notification: "Você lubrificou as rodas do robô para passar não cair na casa vermelha",
-  isPowerUp: true,
   options: [
     {
       number: 1,
       button: {
-        text: 'Andar 1 casa, virar para direita, andar 2 casas, virar para direita, e andar 1 casa',
+        text: "Bloco 1",
         solution: {
           visible: false,
-          board: 53,
-        }
+          board: 49,
+        },
       },
     },
-  ]
-}
+    {
+      number: 2,
+      button: {
+        text: "Bloco 2",
+        solution: {
+          visible: false,
+          board: 52,
+        },
+      },
+    },
+    {
+      number: 3,
+      button: {
+        text: "Bloco 3",
+        solution: {
+          visible: false,
+          board: 50,
+        },
+      },
+    },
+  ],
+};

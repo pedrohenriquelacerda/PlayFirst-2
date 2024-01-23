@@ -4,22 +4,12 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Voltar 1 casa',
+        text: "Bloco 1",
         solution: {
           visible: false,
           board: 38,
-        }
+        },
       },
     },
-    {
-      number: 2,
-      button: {
-        text: 'Voltar 2 casas e virar para direita',
-        solution: {
-          visible: false,
-          board: 39,
-        }
-      },
-    },
-  ]
-}
+  ],
+};

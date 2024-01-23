@@ -61,10 +61,6 @@ import {
   fll_board_52,
   fll_board_53,
   fll_board_54,
-  fll_board_55,
-  fll_board_56,
-  fll_board_57,
-  fll_board_58,
 } from "../mock/";
 
 export default {
@@ -140,10 +136,6 @@ export default {
         fll_board_52,
         fll_board_53,
         fll_board_54,
-        fll_board_55,
-        fll_board_56,
-        fll_board_57,
-        fll_board_58,
       ],
     };
   },

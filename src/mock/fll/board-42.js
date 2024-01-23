@@ -4,9 +4,8 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Andar 1 casa',
+        text: 'Bloco 1',
         solution: {
-          
           visible: false,
           board: 43,
         }
@@ -15,20 +14,20 @@ export default {
     {
       number: 2,
       button: {
-        text: 'Andar 2 casas',
+        text: 'Bloco 2',
         solution: {
           visible: false,
-          board: 44,
+          board: 42,
         }
       },
     },
     {
       number: 3,
       button: {
-        text: 'Andar 3 casas e virar a esquerda',
+        text: 'Bloco 3',
         solution: {
           visible: false,
-          board: 45,
+          board: 43,
         },
       },
     },

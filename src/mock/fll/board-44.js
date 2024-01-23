@@ -4,7 +4,7 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Andar 1 casa e virar para esquerda',
+        text: 'Bloco 1',
         solution: {
           visible: false,
           board: 45,
@@ -14,20 +14,20 @@ export default {
     {
       number: 2,
       button: {
-        text: 'Andar 1 casa, virar para esquerda , e andar 1 casa',
+        text: 'Bloco 2',
         solution: {
           visible: false,
-          board: 46,
+          board: 44,
         }
       },
     },
     {
       number: 3,
       button: {
-        text: 'Andar 1 casa, virar para esquerda, e andar 2 casas',
+        text: 'Bloco 3',
         solution: {
           visible: false,
-          board: 47,
+          board: 46,
         },
       },
     },

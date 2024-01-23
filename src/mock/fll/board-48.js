@@ -4,32 +4,32 @@ export default {
     {
       number: 1,
       button: {
-        text: 'Andar 1 casa',
+        text: "Bloco 1",
         solution: {
           visible: false,
           board: 49,
-        }
+        },
       },
     },
     {
       number: 2,
       button: {
-        text: 'Andar 2 casas e virar para direita',
+        text: "Bloco 2",
         solution: {
           visible: false,
-          board: 50,
-        }
+          board: 52,
+        },
       },
     },
     {
       number: 3,
       button: {
-        text: 'Andar 2 casas, virar para direita, e andar 1 casas',
+        text: "Bloco 3",
         solution: {
           visible: false,
-          board: 51,
+          board: 48,
         },
       },
     },
-  ]
-}
+  ],
+};
