@@ -7,7 +7,7 @@ export default {
         text: 'Bloco 1',
         solution: {
           visible: false,
-          board: 29,
+          board: 30,
         }
       },
     },
